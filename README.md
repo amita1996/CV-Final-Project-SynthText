@@ -1,5 +1,7 @@
 # CV-Final-Project-SynthText
 
 Final project of Introduction to Computer Vision course in the Open University.
+The mission was to classify the font of each charcter that were inserted in the images synthetically using SynthText.
+In my solution I used a Deep Convolutional Neural Network, Circle Loss, Voting and Warping.
 
-Please read the pdf file which explains my entire project and thought process in order to get a better comprehension of my work.
+In order to fully understand my solution please read the fully detailed PDF file.
