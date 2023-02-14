@@ -6,4 +6,4 @@ The mission was to classify the font of each charcter that were inserted in the 
 
 In my solution I used a Deep Convolutional Neural Network, Circle Loss, Voting and Warping.
 
-In order to fully understand my solution please read the fully detailed PDF file.
+In order to fully understand my solution please read the detailed PDF file.
